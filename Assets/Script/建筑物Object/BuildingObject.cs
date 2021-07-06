@@ -47,7 +47,7 @@ public bool canBuild;
 
    public void OnEnable()
    {
-       MouseFollow();
+       //MouseFollow();
        isBuilding = true;
        canBuild = true;
        
