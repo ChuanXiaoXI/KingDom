@@ -684,7 +684,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wood: 0
   food: 0
-  gold: 0
+  gold: 10
   weapon: 0
   woodText: {fileID: 1950553350}
   foodText: {fileID: 1955218833}

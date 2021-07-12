@@ -10,6 +10,9 @@ public class BuildingManage : MonoBehaviour
     public int gold;
     public int weapon;
 
+     [Header("碰撞体线条（不可更改）")]
+     public bool buildingMeshActive;
+
   public void Harvest()
   {
       wood = 0;
